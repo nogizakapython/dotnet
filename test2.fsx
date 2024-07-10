@@ -1,4 +1,4 @@
 let msg = "test1"
-printf "msg = %s"
+System.Console.WriteLine($"{msg}")
 
 
