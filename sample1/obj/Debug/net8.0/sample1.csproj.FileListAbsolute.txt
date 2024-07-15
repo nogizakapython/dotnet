@@ -1,0 +1,14 @@
+/home/hattori/dotnet/sample1/sample1/bin/Debug/net8.0/sample1
+/home/hattori/dotnet/sample1/sample1/bin/Debug/net8.0/sample1.deps.json
+/home/hattori/dotnet/sample1/sample1/bin/Debug/net8.0/sample1.runtimeconfig.json
+/home/hattori/dotnet/sample1/sample1/bin/Debug/net8.0/sample1.dll
+/home/hattori/dotnet/sample1/sample1/bin/Debug/net8.0/sample1.pdb
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.AssemblyInfoInputs.cache
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.AssemblyInfo.cs
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.csproj.CoreCompileInputs.cache
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.dll
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/refint/sample1.dll
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.pdb
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/sample1.genruntimeconfig.cache
+/home/hattori/dotnet/sample1/sample1/obj/Debug/net8.0/ref/sample1.dll
