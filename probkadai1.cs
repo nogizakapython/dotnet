@@ -8,12 +8,15 @@ namespace Prob11_3
 {
     class Program
     {
+        // 乱数で取得したたて、よこの個数分、「■」を表示する。
         static void Square(int h, int w)
         {   
             string ans;
             for(int i=1;i<=h;i++){
                 ans = "";
                 for(int j=1;j<=w;j++){
+                    // よこの個数とjが一致したとき■の後に半角スペースを入れない。
+                    // 一致しない場合は■の後ろに半角スペースを入れる
                     if(j == w){
                         ans += "■"; 
                     } else {
