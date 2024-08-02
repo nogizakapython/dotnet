@@ -10,15 +10,16 @@ namespace kaijyo
     {
         //  数値
         protected int num;
+        // 解答
         protected int ans;
-        //  num1のプロパティ
+        //  numのプロパティ
         public int Num
         {
             set { num = value; }
             get { return num; }
         }
     
-        //  足し算
+        //  与えられた数から1まで加算する
         public void add()
         {   
             ans = 0;
@@ -31,7 +32,7 @@ namespace kaijyo
     }
     class MulCalc : AddCalc
     {
-        //  掛け算
+        //  階乗の計算
         public void mul()
         {
             ans = 1;
@@ -46,12 +47,13 @@ namespace kaijyo
     {
         static void Main(string[] args)
         {
-            //  Calculatorクラスのインスタンス
+            //  AddCalcクラスのインスタンス
             AddCalc c1 = new AddCalc();
             c1.Num = 7;
+            // MulCalcクラスのインスタンス
             MulCalc c2 = new MulCalc();
             c2.Num = 7;
-            //  足し算・引き算の結果を表示
+            //  結果を表示
             c2.add();
             c2.mul();
             
