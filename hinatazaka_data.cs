@@ -25,6 +25,8 @@ namespace Hinatazaka_data
             hinata_array.Remove("丹生明里"); //　丹生明里を削除
             hinata_array.RemoveAt(3);        //  3番目のデータを削除
             Program.disp_data(hinata_array);
+            hinata_array.Clear();
+            Program.disp_data(hinata_array);
         }
         public static void disp_data(List<string> array1)
         {
