@@ -8,7 +8,7 @@ namespace Nogizaka1
 {
     //  デリゲート
     delegate void Operation(string str1,string str2);
-    //  Calcクラス
+    //  Msgクラス
     class Msg
     {
         public void concat1(string a, string b)
