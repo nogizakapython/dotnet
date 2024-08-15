@@ -1,7 +1,7 @@
 using System;
 
 public class User {
-    private string name = "me!";
+    private string name = "ななし";
     public string Name { 
         get {return this.name;}
         set { 
