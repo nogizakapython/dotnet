@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ro9a0k5/kM=",
+  "success": true,
+  "projectFilePath": "C:\\dotnet\\TEST2\\TEST2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
