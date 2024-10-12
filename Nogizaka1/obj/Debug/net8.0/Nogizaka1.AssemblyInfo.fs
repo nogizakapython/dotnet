@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Nogizaka1")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8e5a27b3bb8e45513e6b9222de5da13aabc1ca6")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7a90ca292779f4db1a6b4850efb2f45e28953e6")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Nogizaka1")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Nogizaka1")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

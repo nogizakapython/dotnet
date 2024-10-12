@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dotnet\\Nogizaka1\\Nogizaka1.fsproj",
+      "projectUniqueName": "c:\\dotnet\\Nogizaka1\\Nogizaka1.fsproj",
       "projectName": "Nogizaka1",
-      "projectPath": "C:\\dotnet\\Nogizaka1\\Nogizaka1.fsproj",
+      "projectPath": "c:\\dotnet\\Nogizaka1\\Nogizaka1.fsproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\dotnet\\Nogizaka1\\obj\\",
+      "outputPath": "c:\\dotnet\\Nogizaka1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -133,7 +133,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\8.0.303\\FSharp\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\8.0.304\\FSharp\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -175,7 +175,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
