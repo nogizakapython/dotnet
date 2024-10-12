@@ -1,0 +1,15 @@
+C:\dotnet\Struct1\bin\Debug\net8.0\Struct1.exe
+C:\dotnet\Struct1\bin\Debug\net8.0\Struct1.deps.json
+C:\dotnet\Struct1\bin\Debug\net8.0\Struct1.runtimeconfig.json
+C:\dotnet\Struct1\bin\Debug\net8.0\Struct1.dll
+C:\dotnet\Struct1\bin\Debug\net8.0\Struct1.pdb
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.AssemblyInfoInputs.cache
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.AssemblyInfo.cs
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.csproj.CoreCompileInputs.cache
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.sourcelink.json
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.dll
+C:\dotnet\Struct1\obj\Debug\net8.0\refint\Struct1.dll
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.pdb
+C:\dotnet\Struct1\obj\Debug\net8.0\Struct1.genruntimeconfig.cache
+C:\dotnet\Struct1\obj\Debug\net8.0\ref\Struct1.dll
