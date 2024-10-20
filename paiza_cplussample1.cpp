@@ -4,8 +4,8 @@ int main(void){
     // 自分の得意な言語で
     // Let's チャレンジ！！
     string str1,str2;
-    getline(cin, str1);
-    getline(cin, str2);
+    cin >> str1;
+    cin >> str2;
     if(str1 == str2){
         cout << "OK" << endl;
     } else {
