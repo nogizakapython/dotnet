@@ -6,10 +6,12 @@ class Program
     {
         // 自分の得意な言語で
         // Let's チャレンジ！！
-        int n = Int32.Parse(Console.ReadLine());
-        for(int i=0;i<n;i++){
-            var line = Console.ReadLine();
-            Console.WriteLine(line);
-        }
+        string[] array1 = Console.ReadLine().Split(' ');
+        double a = Double.Parse(array1[0]);
+        double b = Double.Parse(array1[2]);
+        // Console.WriteLine(a);
+        // Console.WriteLine(b);
+        int ans = (int)((b / a) * 100);
+        Console.WriteLine(ans);
     }
 }
