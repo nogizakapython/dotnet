@@ -7,7 +7,7 @@ class Program
         // 自分の得意な言語で
         // Let's チャレンジ！！
         string line = Console.ReadLine();
-        string[] array1 = line.Split(" ");
+        string[] array1 = line.Split(' ');
         int H = Int32.Parse(array1[0]);
         int M = Int32.Parse(array1[1]);
         if((H >= 7) && (H < 13)){
