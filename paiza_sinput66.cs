@@ -6,7 +6,9 @@ class Program
     {
         // 自分の得意な言語で
         // Let's チャレンジ！！
-        //var line = Console.ReadLine();
-        Console.WriteLine("paiza");
+        int n = Int32.Parse(Console.ReadLine());
+        for(int i=0;i<n;i++){
+            Console.WriteLine(i + 1);
+        }    
     }
 }
