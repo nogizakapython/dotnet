@@ -6,15 +6,10 @@ class Program
     {
         // 自分の得意な言語で
         // Let's チャレンジ！！
-        int[][] array1 = new int[][]
-            {
-                new int[]{1,2,3,4,5,6},
-                new int[]{8,1,3,3,1,8}
-
-            };
-
-        int ans1 = array1[0].Length;
-        int ans2 = array1[1].Length;
-        Console.WriteLine(ans1 + ans2);
+        //int n = 2;
+        string data1 = "6 5 4 3 2 1";
+        string data2 = "3 1 8 8 1 3";
+        Console.WriteLine(data1);
+        Console.WriteLine(data2);
     }
 }
